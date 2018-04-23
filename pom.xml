@@ -77,6 +77,6 @@
         </dependency>
     </dependencies>
 
-    <groupId>bootcamp1</groupId>
-    <artifactId>docker-hello-world</artifactId>
+    <groupId>bootcamp</groupId>
+    <artifactId>docker-hello</artifactId>
 </project>
