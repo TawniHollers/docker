@@ -77,6 +77,6 @@
         </dependency>
     </dependencies>
 
-    <groupId>bootcamp</groupId>
-    <artifactId>docker-hello</artifactId>
+    <groupId>org.springframework</groupId>
+    <artifactId>gs-spring-boot-docker</artifactId>
 </project>
